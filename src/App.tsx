@@ -1,8 +1,8 @@
 import { Button, ButtonGroup } from "@chakra-ui/react";
-import { ColorPalette } from "@chakra-ui/react";
+
 
 function App() {
-  return <Button colorPalette="blue">Click me</Button>;
+  return <Button >Click me</Button>;
 }
 
 export default App;
